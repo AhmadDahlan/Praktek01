@@ -12,7 +12,7 @@ package praktek01;
 public class baju {
    String merk;
    String warna;
-   Double ukuran;
+   String ukuran;
    String bahan;
    String corak;
    

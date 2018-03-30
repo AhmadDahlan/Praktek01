@@ -12,6 +12,28 @@ package praktek01;
 public class bajuaksi {
     public static void main(String[] args) {
         baju jalan = new baju ();
+        
+        jalan.merk="Nevada";
+        jalan.warna="Merah";
+        jalan.ukuran="L";
+        jalan.bahan="Katun";
+        jalan.corak="Polos";
+        
+        baju kuliah = new baju();
+        
+        kuliah.merk="Cressida";
+        kuliah.warna="Hitam";
+        kuliah.ukuran="XL";
+        kuliah.bahan="Sutra";
+        kuliah.corak="Bunga";
+        
+        baju pantai = new baju();
+        
+        pantai.merk="Billabong";
+        pantai.warna="Putih";
+        pantai.ukuran="XXL";
+        pantai.bahan="Semi Sutra";
+        pantai.corak="Garis-garis";
     }
     
 }
