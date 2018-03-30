@@ -11,7 +11,7 @@ package praktek01;
  */
 public class bajuaksi {
     public static void main(String[] args) {
-        
+        baju jalan = new baju ();
     }
     
 }
