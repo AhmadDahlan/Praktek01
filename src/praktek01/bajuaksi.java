@@ -34,6 +34,10 @@ public class bajuaksi {
         pantai.ukuran="XXL";
         pantai.bahan="Semi Sutra";
         pantai.corak="Garis-garis";
+        
+        jalan.pelindungtubuh();
+        kuliah.pelindungtubuh();
+        pantai.pelindungtubuh();
     }
     
 }
